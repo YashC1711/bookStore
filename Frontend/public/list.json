@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Story Book",
+    "title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/premium-vector/stack-books-with-cup-coffee-cup-coffee_1253202-27632.jpg?ga=GA1.1.228599703.1730342816&semt=ais_hybrid"
+  },
+  {
+    "id": 2,
+    "name": "Adventure Tales",
+    "title": "Embark on thrilling adventures around the world.",
+    "price": 5.99,
+    "category": "Paid",
+    "image": "https://img.freepik.com/premium-vector/stack-books-with-cup-coffee-cup-coffee_1253202-27632.jpg?ga=GA1.1.228599703.1730342816&semt=ais_hybrid"
+  },
+  {
+    "id": 3,
+    "name": "Science Facts",
+    "title": "Discover amazing science facts and phenomena.",
+    "price": 3.49,
+    "category": "Paid",
+    "image": "https://img.freepik.com/premium-vector/stack-books-with-cup-coffee-cup-coffee_1253202-27632.jpg?ga=GA1.1.228599703.1730342816&semt=ais_hybrid"
+  },
+  {
+    "id": 4,
+    "name": "History Unveiled",
+    "title": "Dive deep into historical events and figures.",
+    "price": 7.99,
+    "category": "Paid",
+    "image": "https://img.freepik.com/premium-vector/stack-books-with-cup-coffee-cup-coffee_1253202-27632.jpg?ga=GA1.1.228599703.1730342816&semt=ais_hybrid"
+  },
+  {
+    "id": 5,
+    "name": "Cooking Essentials",
+    "title": "Master the art of cooking with these essential recipes.",
+    "price": 4.99,
+    "category": "Paid",
+    "image": "https://img.freepik.com/premium-vector/stack-books-with-cup-coffee-cup-coffee_1253202-27632.jpg?ga=GA1.1.228599703.1730342816&semt=ais_hybrid"
+  },
+  {
+    "id": 6,
+    "name": "Fantasy Realm",
+    "title": "Enter a world of magic and wonder.",
+    "price": 6.49,
+    "category": "Paid",
+    "image": "https://img.freepik.com/premium-vector/stack-books-with-cup-coffee-cup-coffee_1253202-27632.jpg?ga=GA1.1.228599703.1730342816&semt=ais_hybrid"
+  },
+  {
+    "id": 7,
+    "name": "Self-Help Guide",
+    "title": "Improve yourself with practical tips and advice.",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/premium-vector/stack-books-with-cup-coffee-cup-coffee_1253202-27632.jpg?ga=GA1.1.228599703.1730342816&semt=ais_hybrid"
+  },
+  {
+    "id": 8,
+    "name": "Children's Stories",
+    "title": "Enjoy heartwarming tales for kids.",
+    "price": 2.99,
+    "category": "Paid",
+    "image": "https://img.freepik.com/premium-vector/stack-books-with-cup-coffee-cup-coffee_1253202-27632.jpg?ga=GA1.1.228599703.1730342816&semt=ais_hybrid"
+  },
+  {
+    "id": 9,
+    "name": "Health and Wellness",
+    "title": "Learn tips for a healthier and happier life.",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/premium-vector/stack-books-with-cup-coffee-cup-coffee_1253202-27632.jpg?ga=GA1.1.228599703.1730342816&semt=ais_hybrid"
+  },
+  {
+    "id": 10,
+    "name": "Tech Innovations",
+    "title": "Explore the latest trends in technology.",
+    "price": 8.99,
+    "category": "Paid",
+    "image": "https://img.freepik.com/premium-vector/stack-books-with-cup-coffee-cup-coffee_1253202-27632.jpg?ga=GA1.1.228599703.1730342816&semt=ais_hybrid"
+  },
+  {
+    "id": 11,
+    "name": "Mindfulness and Meditation",
+    "title": "Learn the art of mindfulness and inner peace.",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/premium-vector/stack-books-with-cup-coffee-cup-coffee_1253202-27632.jpg?ga=GA1.1.228599703.1730342816&semt=ais_hybrid"
+  },
+  {
+    "id": 12,
+    "name": "Creative Writing",
+    "title": "Unleash your creativity through writing.",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/premium-vector/stack-books-with-cup-coffee-cup-coffee_1253202-27632.jpg?ga=GA1.1.228599703.1730342816&semt=ais_hybrid"
+  },
+  {
+    "id": 13,
+    "name": "Nature and Wildlife",
+    "title": "Explore the beauty of nature and its creatures.",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/premium-vector/stack-books-with-cup-coffee-cup-coffee_1253202-27632.jpg?ga=GA1.1.228599703.1730342816&semt=ais_hybrid"
+  },
+  {
+    "id": 14,
+    "name": "Art Appreciation",
+    "title": "Learn to appreciate art in its various forms.",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/premium-vector/stack-books-with-cup-coffee-cup-coffee_1253202-27632.jpg?ga=GA1.1.228599703.1730342816&semt=ais_hybrid"
+  },
+  {
+    "id": 15,
+    "name": "Beginner's Gardening",
+    "title": "Start your gardening journey with ease.",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/premium-vector/stack-books-with-cup-coffee-cup-coffee_1253202-27632.jpg?ga=GA1.1.228599703.1730342816&semt=ais_hybrid"
+  }
+]
